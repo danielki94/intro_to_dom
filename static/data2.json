@@ -1,0 +1,30 @@
+[
+    {
+        "name": "United States",
+        "attendees": [
+            {
+                "name": "Daniel Ki",
+                "availabilityDates": ["1", "2", "3"]
+            },
+            {
+                "name": "Gordon Ta",
+                "availabilityDates": ["1", "2", "3"]
+            }
+
+        ]
+    },
+    {
+        "name": "Italy",
+        "attendees": [
+            {
+                "name": "Derek Hawkins",
+                "availabilityDates": ["1", "2", "3"]
+            },
+            {
+                "name": "Lucas Lang",
+                "availabilityDates": ["1", "2", "3"]
+            }
+
+        ]
+    }
+]
